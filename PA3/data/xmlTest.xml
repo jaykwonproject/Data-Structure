@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.55.1009 5e627b63">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2019-10-25T18:58:02Z"/>
+
+  <bounds minlat="42.8318000" minlon="-78.9197000" maxlat="42.9667000" maxlon="-78.7987000"/>
+
+  <node id="18723547" lat="42.8733890" lon="-79.0000000" version="5" timestamp="2011-08-24T19:36:30Z" changeset="9115762" uid="62654" user="fuego"/>
+  <node id="18758034" lat="42.9581814" lon="-78.9555079" version="4" timestamp="2012-07-18T20:23:41Z" changeset="12296985" uid="722137" user="OSMF Redaction Account"/>
+  <node id="18758037" lat="42.9585031" lon="-78.9556900" version="4" timestamp="2012-07-18T20:23:41Z" changeset="12296985" uid="722137" user="OSMF Redaction Account"/>
+  <node id="18758056" lat="42.9572860" lon="-78.9462930" version="1" timestamp="2007-07-17T03:00:46Z" changeset="148749" uid="7412" user="mjulius">
+    <tag k="created_by" v="r_coastlines"/>
+    <tag k="source" v="PGS"/>
+  </node>
+  <node id="18758139" lat="42.8804424" lon="-78.8956050" version="6" timestamp="2018-03-07T03:51:47Z" changeset="56954905" uid="473104" user="AlaskaDave">
+    <tag k="source" v="PGS"/>
+  </node>
+
+  <way id="31733055" version="18" timestamp="2019-04-13T17:19:35Z" changeset="69182925" uid="7027223" user="mvviveka">
+    <nd ref="123"/>
+    <nd ref="456"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="hgv:state_network" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Seneca Street"/>
+    <tag k="ref" v="NY 16"/>
+    <tag k="source:hgv:state_network" v="NYSDOT https://www.dot.ny.gov/divisions/operating/oom/transportation-systems/repository/2010%20trk%20access%20bk.pdf"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Erie, NY"/>
+    <tag k="tiger:name_base" v="A"/>
+    <tag k="tiger:name_base_1" v="State Highway 16"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="14210"/>
+    <tag k="tiger:zip_right" v="14210"/>
+  </way>
+  <way id="31733056" version="18" timestamp="2019-04-13T17:19:35Z" changeset="69182925" uid="7027223" user="mvviveka">
+    <nd ref="123"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="hgv:state_network" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Seneca Street"/>
+    <tag k="ref" v="NY 16"/>
+    <tag k="source:hgv:state_network" v="NYSDOT https://www.dot.ny.gov/divisions/operating/oom/transportation-systems/repository/2010%20trk%20access%20bk.pdf"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Erie, NY"/>
+    <tag k="tiger:name_base" v="B"/>
+    <tag k="tiger:name_base_1" v="State Highway 16"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="14210"/>
+    <tag k="tiger:zip_right" v="14210"/>
+  </way>
+  <way id="31733057" version="18" timestamp="2019-04-13T17:19:35Z" changeset="69182925" uid="7027223" user="mvviveka">
+    <nd ref="456"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="hgv:state_network" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Seneca Street"/>
+    <tag k="ref" v="NY 16"/>
+    <tag k="source:hgv:state_network" v="NYSDOT https://www.dot.ny.gov/divisions/operating/oom/transportation-systems/repository/2010%20trk%20access%20bk.pdf"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Erie, NY"/>
+    <tag k="tiger:name_base" v="C"/>
+    <tag k="tiger:name_base_1" v="State Highway 16"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="14210"/>
+    <tag k="tiger:zip_right" v="14210"/>
+  </way>
+  <way id="31733057" version="18" timestamp="2019-04-13T17:19:35Z" changeset="69182925" uid="7027223" user="mvviveka">
+    <nd ref="789"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="hgv:state_network" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Seneca Street"/>
+    <tag k="ref" v="NY 16"/>
+    <tag k="source:hgv:state_network" v="NYSDOT https://www.dot.ny.gov/divisions/operating/oom/transportation-systems/repository/2010%20trk%20access%20bk.pdf"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Erie, NY"/>
+    <tag k="tiger:name_base" v="D"/>
+    <tag k="tiger:name_base_1" v="State Highway 16"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="14210"/>
+    <tag k="tiger:zip_right" v="14210"/>
+  </way>
+</osm>
